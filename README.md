@@ -7,7 +7,7 @@ This project is a simple web application that automatically generates descriptiv
 
 ## 🚀 Demo
 
-Upload an image, and the app will return a natural language description of the image content.
+https://github.com/user-attachments/assets/a00cee2d-4ffc-4dff-8f69-e819d52a8322
 
 ---
 
